@@ -85,14 +85,14 @@
    ## 📘 My top projects
    
    <div width="100%" align="center">
-     <a align="left" href="https://github.com/niranjansah87/Niranjan-Portfolio" title="NapSack"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nanda-kumar-k&repo=NapSack&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a align="right" href="https://github.com/niranjansah87/Niranjan-Portfolio-React" title="onlinepythoncompiler"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nanda-kumar-k&repo=onlinepythoncompiler&theme=react&border_color=61dafb&border_radius=10"></a>
+     <a align="left" href="https://github.com/niranjansah87/Niranjan-Portfolio" title="Niranjan-Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansah87&repo=Niranjan-Portfoliot&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="right" href="https://github.com/niranjansah87/Niranjan-Portfolio-React" title="Niranjan-Portfolio-React"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansah87&repo=Niranjan-Portfolio-React&theme=react&border_color=61dafb&border_radius=10"></a>
    </div>
    <br/><br/><br/><br/><br/><br/>
    <div width="100%" align="center">
-     <a align="left" href="https://github.com/niranjansah87/AutoZ" title="AgriStore"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nanda-kumar-k&repo=AgriStore&theme=react&border_color=61dafb&border_radius=10"></a>
+     <a align="left" href="https://github.com/niranjansah87/AutoZ" title="AutoZ"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansah87&repo=AutoZ &theme=react&border_color=61dafb&border_radius=10"></a>
      
-  <a align="right" href="https://github.com/niranjansah87/KLSAMARTHYA" title="kluplacementportal"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nanda-kumar-k&repo=kluplacementportal&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/niranjansah87/KLSAMARTHYA" title="KL SAMARTHYA"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansah87&repo=KLSAMARTHYA&theme=react&border_color=61dafb&border_radius=10"></a>
    </div>
    <br><br><br><br><br><br>
    <h4 align="center">
