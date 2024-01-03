@@ -80,7 +80,23 @@
    <p>
        <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
    </p>
+      
+   ## 🔥 Streak stats
    
+   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+   <p align="center">
+     <a href="#">
+       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjansah87&theme=vue-dark&hide_border=true"/>
+    </a>
+   </p>
+   
+   
+   ## 📊 Github stats
+  <br/>
+  <a href="#"><img alt="Niranjan sah's Github Stats" src="ttps://github-readme-stats.vercel.app/api?username=niranjansah87&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="192px"/> </a>
+  <a href="#"><img alt="Niranjan sah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjansah87&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="192px"/></a>
+ <br/>
+ <br/>
    
    ## 📘 My top projects
    
