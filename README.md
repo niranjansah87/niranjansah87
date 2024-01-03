@@ -94,7 +94,7 @@
    ## 📊 Github stats
   <br/>
   <a href="#"><img alt="Niranjan sah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=niranjansah87&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/> </a>
-  <a href="#"><img alt="Niranjan sah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjansah87&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/></a>
+  <a href="#" height="192px"><img alt="Niranjan sah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjansah87&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/></a>
  <br/>
  <br/>
    
