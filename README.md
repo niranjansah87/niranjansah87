@@ -38,7 +38,7 @@
    ⚡️ Fun fact...
    
    
-   ## 🛠️ My favorite tools
+   ## 🛠️ My favourite tools
    
    **👨‍💻 Programming and markup languages**
    
