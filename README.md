@@ -97,7 +97,8 @@
   <a href="#"><img alt="Niranjan sah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjansah87&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="192px"/></a>
  
 <br/>
-  <a href="#"><img alt="Niranjan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=niranjansah87&bg_color=00DCFF&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" /></a>
+
+  <a href="#"><img alt="Niranjan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=niranjansah87&bg_color=ffffff&color=000000&line=ff0040&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
    
    ## 📘 My top projects
    
