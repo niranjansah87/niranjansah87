@@ -121,12 +121,7 @@
    <p align="center">
       <i>Success is my only option; failure is not in my vocabulary🏆😎</i>
       <br>
-<!--    <a target="_blank" href="#"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
-   <a target="_blank" href="https://www.linkedin.com/in/niranjan-sah/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-   <a target="_blank" href="mailto:2100090187csit@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-   <a target="_blank" href="https://www.codechef.com/users/niranjan_786"><img src="https://img.shields.io/badge/-Codechef-D1452?style=for-the-badge&logo=Codechef&logoColor=white"></img></a>
-   <a target="_blank" href="https://twitter.com/Niranjan8790"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-   <a target="_blank" href="https://www.instagram.com/_.its_.niranjan._/"><img src="https://img.shields.io/badge/-Instagram-3f729b?style=for-the-badge&logo=Instagram&logoColor=white"></img></a> -->
+
    <br>
    </p>
    <h3 align="center">Connect with me:</h3>
