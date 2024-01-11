@@ -100,7 +100,7 @@
 <br/>
 
   <a href="#"><img alt="Niranjan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=niranjansah87&bg_color=#000000
-&color=000000&line=ff0040&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
+&color=000000&line=ff0040&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
    
    ## 📘 My top projects
    
