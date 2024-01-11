@@ -85,20 +85,18 @@
   
    <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
    <p align="center">
-<!--      <a href="#">
+     <a href="#">
        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Niranjan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjansah87&theme=vue-dark&hide_border=true"/>
-    </a> -->
-       <img src="https://github-readme-streak-stats.herokuapp.com?user=niranjansah87&theme=neon" alt="GitHub Streak" /></a>
+    </a>
+<!--        <img src="https://github-readme-streak-stats.herokuapp.com?user=niranjansah87&theme=neon" alt="GitHub Streak" /></a> -->
    </p>
    
 
    ## 📊 Github stats
   <br/>
-  <a href="#">
-       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Niranjan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjansah87&theme=vue-dark&hide_border=true"/>
-    </a> 
+ <p align="center">
   <a href="#"><img alt="Niranjan sah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjansah87&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="192px"/></a>
- 
+ </p>
 <br/>
 
   <a href="#"><img alt="Niranjan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=niranjansah87&bg_color=ffffff&color=000000&line=ff0040&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
