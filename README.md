@@ -95,7 +95,7 @@
    ## 📊 Github stats
   <br/>
  <p align="center">
-  <a href="#"><img alt="Niranjan sah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjansah87&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="192px"/></a>
+  <a href="#"><img alt="Niranjan sah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjansah87&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" /></a>
  </p>
 <br/>
 
