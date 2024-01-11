@@ -85,9 +85,10 @@
   
    <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
    <p align="center">
-     <a href="#">
+<!--      <a href="#">
        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Niranjan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjansah87&theme=vue-dark&hide_border=true"/>
-    </a>
+    </a> -->
+       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=niranjansah87&theme=dark" alt="GitHub Streak" /></a>
    </p>
    
 
