@@ -88,13 +88,15 @@
 <!--      <a href="#">
        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Niranjan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjansah87&theme=vue-dark&hide_border=true"/>
     </a> -->
-       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=niranjansah87&theme=neon" alt="GitHub Streak" /></a>
+       <img src="https://github-readme-streak-stats.herokuapp.com?user=niranjansah87&theme=neon" alt="GitHub Streak" /></a>
    </p>
    
 
    ## 📊 Github stats
   <br/>
-  
+  <a href="#">
+       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Niranjan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjansah87&theme=vue-dark&hide_border=true"/>
+    </a> 
   <a href="#"><img alt="Niranjan sah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjansah87&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="192px"/></a>
  
 <br/>
