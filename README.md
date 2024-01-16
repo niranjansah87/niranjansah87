@@ -40,7 +40,7 @@
    
    ## 🛠️ My favourite tools
 **
-    **Operating System**
+    Operating System**
     <p>
        <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="height:20px;"></a>
        <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="height:20px;"></a>
