@@ -135,4 +135,3 @@
 <a href="https://www.codechef.com/users/niranjan_786" target="blank"><img align="center" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="niranjan_786" height="30" width="40" /></a>
 </p>
    
-I just wanted to better day by day and improve myself 
