@@ -96,7 +96,7 @@
   <br/>
   
  <p align="center">
-     <a href="#"><img alt="Niranjan sah's Top Languages" src="https://github-readme-stats.vercel.app/api?username=niranjansah87&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /></a>
+     <a href="#"><img alt="Niranjan sah's Top Languages" src="https://github-readme-stats.vercel.app/api?username=niranjansah87&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" height=192px /></a>
   <a href="#"><img alt="Niranjan sah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjansah87&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" /></a>
  </p>
 <br/>
