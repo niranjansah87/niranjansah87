@@ -46,6 +46,7 @@
        <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="height:20px;"></a>
        <a href="#"><img alt="Kali Liux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" style="height:20px;"></a>
        <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="height:20px;"></a>
+       <a href="#"><img alt="Parrot" src="https://img.shields.io/badge/parrot-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="height:20px;"></a>
        
    </p>
    
