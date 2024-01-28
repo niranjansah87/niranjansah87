@@ -102,13 +102,12 @@
    </p>
       
    ## 🔥 Streak stats
-  
-   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+
    <p align="center">
      <a href="#">
        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Niranjan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjansah87&theme=vue-dark&hide_border=true"/>
     </a>
-<!--        <img src="https://github-readme-streak-stats.herokuapp.com?user=niranjansah87&theme=neon" alt="GitHub Streak" /></a> -->
+
    </p>
    
 
