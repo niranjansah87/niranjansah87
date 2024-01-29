@@ -1,6 +1,6 @@
 <p align="center">
 <!--     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGX42AEiyWnxGauYKiZzSXCjC5KQIC60XeLAIYZtzYVMYFZfql1HkUc_5QZ4peiFX31oM&usqp=CAU" alt="Logo" width="200" height="200"/> -->
-    <img src="https://drive.google.com/file/d/1g-z5lfxWwbO1IOdi_-Piv99gcQjZCbAP/view?usp=drive_link" alt="Logo" width="200" height="200"/>
+    <img src="https://instagram.fvga5-1.fna.fbcdn.net/v/t51.2885-15/404941907_1054323985807055_2733493730050727707_n.heic?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyIn0&_nc_ht=instagram.fvga5-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=9AuwkEBYL2IAX9Mwpe6&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=MzI0NjQxMTEyMzAxNjQ4NzgyNw%3D%3D.2-ccb7-5&oh=00_AfDuSot4f0DJ9lvT3K9PcNjSieytxPc9FH6pH7Uifdwlug&oe=65BCCA3A&_nc_sid=ee9879" alt="Logo" width="200" height="200"/>
    <h1 align="center">
      <a href="https://git.io/typing-svg">
        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Niranjan+Sah....;Nice+to+meet+you!&center=true&size=30">
