@@ -121,8 +121,8 @@
  </p>
 <br/>
 
-  <a href="#"><img alt="Niranjan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=niranjansah87&bg_color=#000000
-&color=000000&line=ff0040&point=403d3d&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
+  <!--  <a href="#"><img alt="Niranjan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=niranjansah87&bg_color=#000000
+&color=000000&line=ff0040&point=403d3d&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=niranjansah87&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -158,8 +158,9 @@
    <br>
 
 
-
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=niranjansah87&&style=flat-square" align="center" />
+</div>
   
 <!--    [![trophy](https://github-profile-trophy.vercel.app/?niranjansah87=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
    <hr>
