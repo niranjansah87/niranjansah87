@@ -156,6 +156,9 @@
      <a href="https://github.com/niranjansah87?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
    </h4>
    <br>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/niranjansah87/niranjansah87/output/snake.svg" alt="Snake animation" />
 
 
 <div align="center">
