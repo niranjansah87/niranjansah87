@@ -141,6 +141,11 @@
      <a href="https://github.com/niranjansah87?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
    </h4>
    <br>
+
+
+
+
+   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niranjansah87" alt="niranjansah87" /></a> </p>
    <hr>
    <p align="center">
       <i>Success is my only option; failure is not in my vocabulary🏆😎</i>
