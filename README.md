@@ -36,7 +36,6 @@
    
    💬 Ask me anything about from <a href="https://www.linkedin.com/in/niranjan-sah/">Here</a>
    
-   ⚡️ Fun fact...
    
    
    ## 🛠️ My favourite tools
