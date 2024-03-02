@@ -1,6 +1,6 @@
 <p align="center">
 <!--     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGX42AEiyWnxGauYKiZzSXCjC5KQIC60XeLAIYZtzYVMYFZfql1HkUc_5QZ4peiFX31oM&usqp=CAU" alt="Logo" width="200" height="200"/> -->
-    <img src="https://scontent.fvga5-1.fna.fbcdn.net/v/t39.30808-6/376405528_1093797608692666_555797593928691246_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=C3RmLxjPZisAX-MzPV_&_nc_ht=scontent.fvga5-1.fna&oh=00_AfBuXXRIxlBD7nRHT_nfgjegM4_ECDbr0n31JT_Icz37eQ&oe=65D1AADC" alt="Logo" width="200" height="200"/>
+    <img src="https://scontent.fvga5-1.fna.fbcdn.net/v/t39.30808-6/408496868_1144252380313855_535424980146452106_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=bux77HdapV8AX-1gpIr&_nc_ht=scontent.fvga5-1.fna&oh=00_AfAi1qpzAAfnuicQPLHqcfOCDJypm-5XwQTpbFwFugO2_w&oe=65E87D70" alt="Logo" width="200" height="200"/>
    <h1 align="center">
      <a href="https://git.io/typing-svg">
        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Niranjan+Sah....;Nice+to+meet+you!&center=true&size=30">
