@@ -13,7 +13,7 @@
    
    
    <h3 align="center">Full Stack Web Developer and Ethical Hacker</h3>
-   <p align="center">I am a passionate and dedicated computer science and information technology professional with expertise in C, C++, Java, Python, and Full Stack Development. With an interest in Cyber Security and Web Development.</p>
+   <p align="center">I am a passionate and dedicated computer science and information technology professional with expertise in C, C++, Java, Python, and Full Stack Development. With an interest in Cyber Security and Full Stack Web Development.</p>
    
 <div align="center">
 
