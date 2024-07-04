@@ -17,9 +17,11 @@
    
 <div align="center">
 
- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Niranjan8790_)
- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://niranjansah87.com.np/)
- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjan-sah/)
+ [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Niranjan8790_)
+ [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://niranjansah87.com.np/)
+ [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjan-sah/)
+ [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/niranjan_8790/)
+ [![Codechef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/niranjan_786)
  [![Resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](./Niranjannewresume.pdf)
 
 
@@ -39,20 +41,9 @@
    
    
    
-   ## 🛠️ My favourite tools
-**
-    Operating System**
-    <p>
-       <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="height:20px;"></a>
-       <a href="#"><img alt="Parrot" src="https://img.shields.io/badge/parrot-E95420?style=for-the-badge&logo=parrot&logoColor=white" style="height:20px;"></a>
-       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="height:20px;"></a>
-       <a href="#"><img alt="Kali Liux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" style="height:20px;"></a>
-       <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="height:20px;"></a>
-      
-       
-   </p>
-   
-   **👨‍💻 Programming and markup languages**
+   ## 🛠️ My Known Technolofy stack
+
+   👨‍💻 Programming and markup languages**
    
    <p>
        <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
