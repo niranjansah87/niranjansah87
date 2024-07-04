@@ -41,7 +41,7 @@
    
    
    
-   ## 🛠️ My Known Technolofy stack
+   ## 🛠️ My Known Technology stack
 
    👨‍💻 Programming and markup languages**
    
