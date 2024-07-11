@@ -7,11 +7,6 @@
      </a>
    </h1>
    </p>
-   
-
-   
-   
-   
    <h3 align="center">Full Stack Web Developer, Ethical Hacker and Graphic Designer</h3>
    <p align="center">I am a passionate and dedicated computer science and information technology professional with expertise in C, C++, Java, Python, and Full Stack Development. With an interest in Cyber Security and Full Stack Web Development.</p>
    
@@ -132,24 +127,24 @@
 
 
 
-   ## 📘 My top projects
+<!--   ## 📘 My top projects
    
    <div width="100%" align="center">
      <a align="left" href="https://github.com/niranjansah87/Niranjan-Portfolio" title="Niranjan-Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansah87&repo=Niranjan-Portfolio&theme=react&border_color=61dafb&border_radius=10"></a>
 
-<a align="right" href="https://github.com/niranjansah87/Forensixplore" title="Forensixplore"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansah87&repo=Forensixplore&theme=react&border_color=61dafb&border_radius=10"></a>
-   </div>
+<!--<a align="right" href="https://github.com/niranjansah87/Forensixplore" title="Forensixplore"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansah87&repo=Forensixplore&theme=react&border_color=61dafb&border_radius=10"></a>-->
+<!--   </div>
    <br/><br/><br/><br/><br/><br/>
    <div width="100%" align="center">
-     <a align="left" href="https://github.com/niranjansah87/AutoZ" title="AutoZ"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansah87&repo=AutoZ&theme=react&border_color=61dafb&border_radius=10"></a>
+     <a align="left" href="https://github.com/niranjansah87/AutoZ" title="AutoZ"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansah87&repo=AutoZ&theme=react&border_color=61dafb&border_radius=10"></a>-->
      
-  <a align="right" href="https://github.com/niranjansah87/KLSAMARTHYA" title="KL SAMARTHYA"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansah87&repo=KLSAMARTHYA&theme=react&border_color=61dafb&border_radius=10"></a>
-   </div>
+  <!--<a align="right" href="https://github.com/niranjansah87/KLSAMARTHYA" title="KL SAMARTHYA"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansah87&repo=KLSAMARTHYA&theme=react&border_color=61dafb&border_radius=10"></a>-->
+<!--   </div>
    <br><br><br><br><br><br>
    <h4 align="center">
      <a href="https://github.com/niranjansah87?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
    </h4>
-   <br>
+   <br>-->
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/niranjansah87/niranjansah87/output/snake.svg" alt="Snake animation" />
