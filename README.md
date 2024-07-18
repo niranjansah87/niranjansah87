@@ -26,7 +26,7 @@
    ## 🚀 About Me
    🔬 I'm currently pursuing B-tech degree in Computer Science and Information technology, at KL University.
    
-   👩‍💻 I'm currently working on django,react js.
+   👩‍💻 I'm currently working on Django,React JS and Next JS.
    
    🧠 I'm currently diving into the world of Cybersecurity and Ethical Hacking.
    
