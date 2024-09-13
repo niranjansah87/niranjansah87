@@ -58,10 +58,10 @@
    <p>
        <a href="#"><img alt="Django" src ="https://img.shields.io/badge/Django-4ea94b.svg?logo=Django&logoColor=white"></a>
        <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-<!--        <a href="#"><img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" style="height:20px;"></a> -->
-       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+       <a href="#"><img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
+        <a href="#"><img alt="Express js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
+         <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
         <a href="#"><img alt="Tailwand Css" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss"></a>
-<!--         <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" style="height:20px;"></a> -->
         
        
    </p>
