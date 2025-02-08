@@ -7,8 +7,8 @@
      </a>
    </h1>
    </p>
-   <h3 align="center">Full Stack Web Developer</h3>
-   <p align="center">I am a passionate and dedicated computer science and information technology professional with expertise in C, C++, Java, Python, and Full Stack Development </p>
+   <h3 align="center">Aspiring Full stack Developer | Flutter Enthusiast</h3>
+   <p align="center">I'm a Aspiring Software Developer & Flutter Enthusiast with a love for turning ideas into functional, high-performance apps — and, of course, adding a little bit of magic along the way. Currently pursuing my engineering degree, I specialize in MERN, PFSD, and Flutter, focusing on building web and mobile applications that are as sleek as they are powerful. </p>
    
 <div align="center">
 
