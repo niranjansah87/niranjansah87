@@ -28,8 +28,6 @@
    
    👩‍💻 I'm currently working on Django,React JS and Next JS.
    
-   🧠 I'm currently diving into the world of Cybersecurity and Ethical Hacking.
-   
    💻 I love writing code and learn anythings about it.
    
    💬 Ask me anything about from <a href="https://www.linkedin.com/in/niranjan-sah/">Here</a>
