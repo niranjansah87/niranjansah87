@@ -142,15 +142,16 @@
 
 </div>
 <br><br><br><br/>
+<br clear="both">
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/niranjansah87/KL_Samarthya_2024" title="KL SAMARTHYA 2024"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansah87&repo=KL_Samarthya_2024&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/niranjansah87/KL_Samarthya_2024" title="KL SAMARTHYA 2024"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansah87&repo=KL_Samarthya_2024&theme=react&border_color=61dafb&border_radius=10"></a>
 
   <a align="left" href="https://github.com/niranjansah87/Venue_Booking_system_Frontend" title="A One Cafe"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansah87&repo=Venue_Booking_system_Frontend&theme=react&border_color=61dafb&border_radius=10"></a>
     
     
 </div>
    
-<br clear="both">
+
 
 <img src="https://raw.githubusercontent.com/niranjansah87/niranjansah87/output/snake.svg" alt="Snake animation" />
 
