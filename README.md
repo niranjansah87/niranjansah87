@@ -36,7 +36,7 @@
    
    ## 🛠️ My Known Technology stack
 
-   👨‍💻 Programming and markup languages**
+   **👨‍💻 Programming and markup languages**
    
    <p>
        <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
