@@ -24,9 +24,9 @@
    
    
    ## 🚀 About Me
-   🔬 I'm currently pursuing B-tech degree in Computer Science and Information technology, at KL University.
+   🔬 I graduated with a B.Tech degree in Computer Science and Information Technology from KL University in June 2025.
    
-   👩‍💻 I'm currently working on Django,React JS and Next JS.
+   👩‍💻 I'm currently working on Django,React JS, Next JS and Flutter.
    
    💻 I love writing code and learn anythings about it.
    
