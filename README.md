@@ -60,6 +60,7 @@
         <a href="#"><img alt="Express js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
          <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
         <a href="#"><img alt="Tailwand Css" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss"></a>
+        <a href="#"><img alt="Django" src ="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></a>
         
        
    </p>
