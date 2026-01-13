@@ -12,7 +12,7 @@
 
 <p align="center">
   I build <strong>production-ready web and AI systems</strong> with hands-on experience across
-  <strong>frontend, backend, cloud, and DevOps</strong>.  
+  <strong>frontend, backend, cloud, and DevOps</strong>.<br/>
   Focused on scalable architecture, clean APIs, and reliable deployments.
 </p>
 
@@ -33,10 +33,29 @@
 ## 🚀 About Me
 
 - 🎓 **B.Tech in Computer Science & IT** — KL University (2025)
-- 💻 **Full Stack Developer** with experience in React, Next.js, FastAPI, Django
-- ☁️ Hands-on with **Docker, CI/CD (GitHub Actions), AWS, Firebase**
-- 🧠 Worked on **AI platforms and real business applications**
-- 🌍 **Open to relocation** and international opportunities
+- 💻 **Full Stack Developer** with hands-on experience in React, Next.js, FastAPI, Django
+- ☁️ Strong exposure to **Docker, CI/CD (GitHub Actions), AWS, Firebase**
+- 🧠 Worked on **AI platforms and real-world business applications**
+- 🌍 **Open to relocation** and international software engineering opportunities
+
+---
+
+## 🔍 What I’m Currently Working On
+
+- Building and scaling **production-ready web and AI platforms**
+- Designing clean and maintainable **REST APIs**
+- Improving backend performance using **Redis caching and async workflows**
+- Automating builds and deployments using **CI/CD pipelines and Docker**
+
+---
+
+## 🧠 How I Build Software
+
+- Break down requirements into scalable, modular components
+- Design APIs and database schemas before implementation
+- Write clean, maintainable, and production-ready code
+- Use Git, CI/CD pipelines, and Docker for reliable deployments
+- Optimize systems for performance, security, and long-term scalability
 
 ---
 
@@ -54,6 +73,16 @@
 
 ### Tools
 - Git, GitHub, Jira
+
+---
+
+## 🚀 Selected Projects & Impact
+
+- **Sunlight Tailors** – Full-stack e-commerce platform enabling a traditional tailoring business to go online  
+- **Secure Environment Manager** – Encrypted environment variable management system with versioning, audit logs, and backups  
+- **ForensiXplore** – MERN-based platform for cybersecurity club engagement  
+- **KL Samarthya (2023 & 2024)** – Official university fest website handling high registration traffic  
+- **AutoZ** – Rental management system built with Django  
 
 ---
 
