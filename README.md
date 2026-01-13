@@ -57,15 +57,6 @@
 
 ---
 
-## 🚀 Selected Production Projects
-
-- **Sunlight Tailors** – Full-stack e-commerce platform for a real tailoring business  
-- **ForensiXplore** – MERN-based platform for cybersecurity club engagement  
-- **AutoZ** – Rental management system built with Django  
-- **KL Samarthya (2023 & 2024)** – Official university fest platform  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
