@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  Full Stack Software Developer | Web & AI Platforms | Open to Relocation
+  Full Stack Software Developer and Devops Engineer | Web & AI Platforms | Open to Relocation
 </h3>
 
 <p align="center">
