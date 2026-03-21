@@ -72,7 +72,7 @@
 - Linux, Nginx
 
 ### Tools
-- Git, GitHub, Jira
+- Git, GitHub
 
 ---
 
