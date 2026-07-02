@@ -43,14 +43,16 @@
 
 ---
 
-# 🚀 Current Focus
+## 🚀 Current Focus
 
-- 🤖 AI-powered applications
-- ⚡ Backend architecture & REST APIs
-- ☁️ Cloud-native deployments
-- 🐳 Docker & CI/CD automation
-- 🚀 Performance optimization using Redis & async workflows
-- 🛠️ Developer tooling
+I'm currently working on:
+
+- AI-powered web applications
+- Backend architecture and REST APIs
+- Cloud-native deployments with Docker
+- Performance optimization using Redis and asynchronous workflows
+- CI/CD automation and developer experience
+- Building products that solve real business problems
 
 ---
 
@@ -115,7 +117,7 @@
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ---
-# 🌱 Currently Exploring
+## 🌱 Currently Exploring
 
 - Distributed Systems
 - AI Infrastructure
@@ -125,7 +127,7 @@
 - Developer Experience
 
 ---
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 I'm always interested in collaborating on interesting products, open-source projects, and engineering discussions.
 
