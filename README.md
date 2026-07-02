@@ -19,6 +19,9 @@
 <p align="center">
   <a href="https://niranjansah87.com.np/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a
+      <a href="https://www.niranjansah87.com.np/blog/">
+    <img src="https://img.shields.io/badge/Engineering%20Blog-181717?style=for-the-badge&logo=hashnode&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/niranjan-sah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -40,12 +43,14 @@
 
 ---
 
-## 🔍 What I’m Currently Working On
+# 🚀 Current Focus
 
-- Building and scaling **production-ready web and AI platforms**
-- Designing clean and maintainable **REST APIs**
-- Improving backend performance using **Redis caching and async workflows**
-- Automating builds and deployments using **CI/CD pipelines and Docker**
+- 🤖 AI-powered applications
+- ⚡ Backend architecture & REST APIs
+- ☁️ Cloud-native deployments
+- 🐳 Docker & CI/CD automation
+- 🚀 Performance optimization using Redis & async workflows
+- 🛠️ Developer tooling
 
 ---
 
@@ -79,7 +84,8 @@
 ## 🚀 Selected Projects & Impact
 
 - **Sunlight Tailors** – Full-stack e-commerce platform enabling a traditional tailoring business to go online  
-- **Secure Environment Manager** – Encrypted environment variable management system with versioning, audit logs, and backups  
+- **Secure Environment Manager** – Encrypted environment variable management system with versioning, audit logs, and backups
+- **InterviewPilot AI** – AI-powered voice interview platform with real-time adaptive conversations 
 - **ForensiXplore** – MERN-based platform for cybersecurity club engagement  
 - **KL Samarthya (2023 & 2024)** – Official university fest website handling high registration traffic  
 - **AutoZ** – Rental management system built with Django  
@@ -109,7 +115,32 @@
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ---
+# 🌱 Currently Exploring
 
+- Distributed Systems
+- AI Infrastructure
+- Cloud Architecture
+- Large Language Models
+- Performance Engineering
+- Developer Experience
+
+---
+# 🤝 Let's Connect
+
+I'm always interested in collaborating on interesting products, open-source projects, and engineering discussions.
+
+🌐 **Portfolio**  
+https://www.niranjansah87.com.np
+
+📝 **Engineering Blog**  
+https://www.niranjansah87.com.np/blog
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/niranjan-sah
+
+📧 **Email**  
+ niranjansah250@gmail.com
+---
 <p align="center">
   <i>Focused on building reliable systems, learning continuously, and delivering real-world impact.</i>
 </p>
