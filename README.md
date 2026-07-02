@@ -43,7 +43,7 @@
 
 ---
 
-## 🚀 Current Focus
+## 🎯 Current Focus
 
 I'm currently working on:
 
