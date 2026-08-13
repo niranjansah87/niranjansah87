@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./pp (2).png" alt="Profile Image" width="150" height="150"/>
+  <img src="./pp (2).png" alt="Niranjan Sah" width="150" height="150"/>
 </p>
 
 <h1 align="center">
@@ -7,116 +7,140 @@
 </h1>
 
 <h3 align="center">
-  Full Stack Software Developer and Devops Engineer | Web & AI Platforms | Open to Relocation
+  Full Stack Software Engineer | AI & Backend Systems | Open to Relocation
 </h3>
 
 <p align="center">
-  I build <strong>production-ready web and AI systems</strong> with hands-on experience across
-  <strong>frontend, backend, cloud, and DevOps</strong>.<br/>
-  Focused on scalable architecture, clean APIs, and reliable deployments.
+  I build <strong>web applications, AI-enabled platforms, and backend systems</strong>
+  across frontend, backend, data, cloud, and DevOps.
 </p>
 
 <p align="center">
   <a href="https://niranjansah87.com.np/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
-  </a
-      <a href="https://www.niranjansah87.com.np/blog/">
+  </a>
+  <a href="https://www.niranjansah87.com.np/blog/" target="_blank">
     <img src="https://img.shields.io/badge/Engineering%20Blog-181717?style=for-the-badge&logo=hashnode&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/niranjan-sah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="./Niranjan_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science & IT** — KL University (2025)
-- 💻 **Full Stack Developer** with hands-on experience in React, Next.js, FastAPI, Django
-- ☁️ Strong exposure to **Docker, CI/CD (GitHub Actions), AWS, Firebase**
-- 🧠 Worked on **AI platforms and real-world business applications**
+- 🎓 **B.Tech in Computer Science & IT** — KL University, 2025
+- 💻 **Full Stack Software Engineer** building production web and AI-enabled systems
+- 🤖 Experience with **RAG, embeddings, vector search, and LLM integrations**
+- ⚙️ Backend experience with **FastAPI, Node.js, PostgreSQL, Redis, REST APIs, and WebSockets**
+- ☁️ Experience with **AWS, Docker, GitHub Actions, CI/CD, Prometheus, and Grafana**
 - 🌍 **Open to relocation** and international software engineering opportunities
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Building
 
-I'm currently working on:
-
-- AI-powered web applications
-- Backend architecture and REST APIs
-- Cloud-native deployments with Docker
-- Performance optimization using Redis and asynchronous workflows
-- CI/CD automation and developer experience
-- Building products that solve real business problems
-
----
-
-## 🧠 How I Build Software
-
-- Break down requirements into scalable, modular components
-- Design APIs and database schemas before implementation
-- Write clean, maintainable, and production-ready code
-- Use Git, CI/CD pipelines, and Docker for reliable deployments
-- Optimize systems for performance, security, and long-term scalability
+- AI-enabled web applications and RAG systems
+- Backend architecture and real-time services
+- Caching and asynchronous processing with Redis and Celery
+- Cloud deployments and CI/CD automation
+- Observability and performance engineering
+- Developer tools and infrastructure
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Core Technologies
-- **Frontend:** React, Next.js, TypeScript, JavaScript
-- **Backend:** Node.js, Express, FastAPI, Django
-- **Databases:** PostgreSQL, MongoDB, Redis, MySQL
+### Frontend
 
-### DevOps & Cloud
-- Docker, GitHub Actions (CI/CD)
-- AWS, Firebase
-- Linux, Nginx
+**React.js · Next.js · TypeScript · JavaScript · Tailwind CSS**
+
+### Backend
+
+**Node.js · Express.js · FastAPI · Django · REST APIs · WebSockets**
+
+### Data & AI
+
+**PostgreSQL · MongoDB · MySQL · Redis · pgvector · RAG · Embeddings · Vector Search · LLM APIs**
+
+### Cloud & DevOps
+
+**AWS · Docker · GitHub Actions · CI/CD · Prometheus · Grafana · Nginx**
 
 ### Tools
-- Git, GitHub
+
+**Git · GitHub · Jira**
 
 ---
 
-## 🚀 Selected Projects & Impact
+## 🚀 Selected Projects
 
-- **Sunlight Tailors** – Full-stack e-commerce platform enabling a traditional tailoring business to go online  
-- **Secure Environment Manager** – Encrypted environment variable management system with versioning, audit logs, and backups
-- **InterviewPilot AI** – AI-powered voice interview platform with real-time adaptive conversations 
-- **ForensiXplore** – MERN-based platform for cybersecurity club engagement  
-- **KL Samarthya (2023 & 2024)** – Official university fest website handling high registration traffic  
-- **AutoZ** – Rental management system built with Django  
+### 🎙️ InterviewPilot AI
+
+AI-powered voice interview platform with real-time voice interaction, adaptive questioning, resume-aware personalization, AI provider abstraction, and structured interview evaluation.
+
+**Stack:** Next.js · TypeScript · Node.js · PostgreSQL · Prisma · Redis · ElevenLabs
+
+[View Project](https://interviewpilot.niranjansah87.com.np)
 
 ---
 
-## 📊 GitHub Stats
+### 🔐 Secure Environment Manager
+
+Self-hosted secrets management platform for securely storing, managing, and auditing application secrets across environments.
+
+**Stack:** Next.js · Python · Docker · JWT · WebSockets
+
+[View Source](https://github.com/niranjansah87/Secure-Enviornment-Manager)
+
+---
+
+### 🧵 Sunlight Tailors
+
+Full-stack e-commerce and service-booking platform built for a tailoring business, supporting online ordering and role-based administration.
+
+**Stack:** Next.js · Node.js · Express.js · MongoDB
+
+[Live Project](https://sunlighttailors.com)
+
+---
+
+### 🚗 Yatri
+
+Real-time mobility infrastructure platform focused on passenger, operator, and enterprise mobility workflows.
+
+**Stack:** NestJS · PostgreSQL · PostGIS · Redis · BullMQ · Socket.IO · Next.js
+
+---
+
+### 🖥️ GPUVerse
+
+Enterprise AI infrastructure platform focused on GPU provider comparison, infrastructure workflows, and AI compute operations.
+
+**Stack:** Next.js · FastAPI · PostgreSQL · Redis · Docker · AWS
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niranjansah87&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjansah87&layout=compact&theme=dark" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=niranjansah87&show_icons=true&theme=dark"
+    alt="Niranjan's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjansah87&layout=compact&theme=dark"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-## 📈 Open Source Activity
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=110651020" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=110651020&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @niranjansah87" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=110651020&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
----
 ## 🌱 Currently Exploring
 
 - Distributed Systems
@@ -127,26 +151,32 @@ I'm currently working on:
 - Developer Experience
 
 ---
+
 ## 🤝 Let's Connect
 
-I'm always interested in collaborating on interesting products, open-source projects, and engineering discussions.
+I'm interested in building useful products, solving challenging engineering problems, and collaborating on interesting software projects.
 
-🌐 **Portfolio**  
+🌐 **Portfolio:**  
 https://www.niranjansah87.com.np
 
-📝 **Engineering Blog**  
+📝 **Engineering Blog:**  
 https://www.niranjansah87.com.np/blog
 
-💼 **LinkedIn**  
+💼 **LinkedIn:**  
 https://www.linkedin.com/in/niranjan-sah
 
-📧 **Email**  
- niranjansah250@gmail.com
+📧 **Email:**  
+niranjansah250@gmail.com
+
 ---
+
 <p align="center">
-  <i>Focused on building reliable systems, learning continuously, and delivering real-world impact.</i>
+  <i>Build systems. Ship products. Keep learning.</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niranjansah87&style=flat-square" />
+  <img
+    src="https://komarev.com/ghpvc/?username=niranjansah87&style=flat-square"
+    alt="Profile Views"
+  />
 </p>
