@@ -80,6 +80,15 @@
 
 ## 🚀 Selected Projects
 
+### 🧵 Sunlight Tailors
+
+Full-stack e-commerce and service-booking platform built for a tailoring business, supporting online ordering and role-based administration.
+
+**Stack:** Next.js · Node.js · Express.js · MongoDB
+
+[Live Project](https://sunlighttailors.com)
+
+---
 ### 🎙️ InterviewPilot AI
 
 AI-powered voice interview platform with real-time voice interaction, adaptive questioning, resume-aware personalization, AI provider abstraction, and structured interview evaluation.
@@ -97,32 +106,6 @@ Self-hosted secrets management platform for securely storing, managing, and audi
 **Stack:** Next.js · Python · Docker · JWT · WebSockets
 
 [View Source](https://github.com/niranjansah87/Secure-Enviornment-Manager)
-
----
-
-### 🧵 Sunlight Tailors
-
-Full-stack e-commerce and service-booking platform built for a tailoring business, supporting online ordering and role-based administration.
-
-**Stack:** Next.js · Node.js · Express.js · MongoDB
-
-[Live Project](https://sunlighttailors.com)
-
----
-
-### 🚗 Yatri
-
-Real-time mobility infrastructure platform focused on passenger, operator, and enterprise mobility workflows.
-
-**Stack:** NestJS · PostgreSQL · PostGIS · Redis · BullMQ · Socket.IO · Next.js
-
----
-
-### 🖥️ GPUVerse
-
-Enterprise AI infrastructure platform focused on GPU provider comparison, infrastructure workflows, and AI compute operations.
-
-**Stack:** Next.js · FastAPI · PostgreSQL · Redis · Docker · AWS
 
 ---
 
