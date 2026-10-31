@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./pp (2).png" alt="Niranjan Sah" width="150" height="150"/>
-</p>
+
 
 <h1 align="center">Hi, I'm Niranjan Sah 👋</h1>
 
